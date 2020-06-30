@@ -1,0 +1,3 @@
+[submodule "hrca_dependencies/pi_trees"]
+	path = hrca_dependencies/pi_trees
+	url = https://github.com/RVSagar/pi_trees.git
